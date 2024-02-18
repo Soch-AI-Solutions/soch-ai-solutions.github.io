@@ -1,1 +1,1 @@
-[Live Wesbite](soch-ai.com)
+[Live Wesbite](https://www.soch-ai.com)
