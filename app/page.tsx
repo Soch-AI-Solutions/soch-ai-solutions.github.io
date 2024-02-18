@@ -98,7 +98,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50 text-balance`}>
-            Have an idea in mind? Let's work together to make it happen.
+            Have an idea in mind? Fill an enquiry and we will be in touch.
           </p>
         </a>
       </div>
