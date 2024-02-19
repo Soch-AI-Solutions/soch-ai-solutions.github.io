@@ -52,6 +52,7 @@ export default function Home() {
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
             Privacy, Efficiency, Excellence.
+            Soch-Ai is a pioneering enterprise offering bespoke AI solutions tailored to the unique needs of a diverse range of businesses. Our cutting-edge technology and expert team work in synergy to deliver AI-driven strategies that propel businesses into the future. From streamlining operations to unlocking new avenues for growth, our custom solutions are designed to transform your business landscape. Experience the power of AI with Soch-Ai, your partner in navigating the digital revolution.
 
           </p>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
@@ -95,8 +96,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50 text-balance`}>
-            Have an idea in mind? Fill an enquiry and we will be in touch.
-          </p>
+          Intrigued by the possibilities? Don't let your ideas just be ideas. Fill out our enquiry form and let's turn your vision into reality. We're excited to connect with you and explore the transformative potential of AI for your business. Let's shape the future together with InnovAI Solutions!        </p>
         </a>
       </div>
     </main>
